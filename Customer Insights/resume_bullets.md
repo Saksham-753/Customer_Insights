@@ -1,0 +1,4 @@
+- Queried 12k+ order records to compute core KPIs (Total Revenue, AOV, monthly trends) and produced actionable sales insights.
+- Cleaned transactional dataset and normalized pricing using joined product master; improved reporting accuracy and reduced duplicate/cancelled noise.
+- Built Power BI dashboard with executive KPIs, trend analysis, product and channel performance, and customer cohort views — reduced time-to-insight from hours to minutes.
+- Identified top customer segments accounting for a disproportionate share of revenue and surfaced seasonal demand patterns to inform marketing and inventory planning.
